@@ -1,7 +1,7 @@
 # drawify
 The drawify app is a simple drawing app. The user moves his/her fingers to draw anything on the screen.
 
-# Main.storyvoard
+# Main.storyboard
 The storyboard is a plain black screen with a white "clear" button at the the bottom of the screen.
 The button when pressed clears the user's work and get the user back to the black screen.
 
